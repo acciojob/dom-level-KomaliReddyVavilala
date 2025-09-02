@@ -9,3 +9,4 @@ function findLevel() {
 	}
 	console.log("The level of the element is:",counter);
 }
+findLevel();
